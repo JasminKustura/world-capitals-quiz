@@ -1,6 +1,6 @@
 ![World Capitals](./banner.png)
 
-# 🌍 World Capitals Quiz
+# 🌍 World Capitals Quiz 
 
 A visually appealing, full-screen quiz game built with **Python (Tkinter + PIL + Pygame)**.  
 Created by **VirusDesignStudio – Jasmin Kustura**.
