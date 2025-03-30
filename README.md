@@ -1,4 +1,4 @@
-![World Capitals](./banner.png)
+![World Capitals](banner.png)
 
 # 🌍 World Capitals Quiz 
 
