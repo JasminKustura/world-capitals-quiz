@@ -1,4 +1,3 @@
-![World Capitals](banner.png)
 
 # 🌍 World Capitals Quiz 
 
