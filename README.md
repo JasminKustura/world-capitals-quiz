@@ -1,3 +1,4 @@
+![World Capitals](./A_banner_for_an_educational_quiz_titled_"World_Cap.png")
 
 # 🌍 World Capitals Quiz
 
