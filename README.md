@@ -56,6 +56,6 @@ python main.py
 ## ✨ Author
 
 **Made by VirusDesignStudio – Jasmin Kustura**  
-📧 [Optional Email]  
-🔗 [Optional Social or Portfolio Link]
+📧 info@virusdesignstudio.ba  
+🔗 www.virusdesignstudio.ba
 
